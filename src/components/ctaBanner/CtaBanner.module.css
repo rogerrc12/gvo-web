@@ -1,0 +1,9 @@
+.CtaBanner {
+  background: linear-gradient(0deg, rgba(40, 5, 107, 0.8) 0%, rgba(40, 5, 107, 0.7) 100%),
+    url("../../../public/images/bg/secondary-banner.webp");
+  min-height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
